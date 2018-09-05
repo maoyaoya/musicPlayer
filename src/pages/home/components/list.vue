@@ -27,6 +27,7 @@ export default {
   width 20%
   height 100%
   border-right 1px solid #ccc
+  float left
   li
     height 30px
     line-height 30px

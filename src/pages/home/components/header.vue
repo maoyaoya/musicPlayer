@@ -73,7 +73,7 @@ dd
     width 30px
     height 30px
     border-radius 50%
-    margin-left 50px
+    margin-left 100px
     margin-top 10px
   .text
     font-size 14px

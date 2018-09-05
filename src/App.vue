@@ -12,6 +12,6 @@ export default {
 
 <style lang="stylus" scoped>
 #app
-  width 76%
+  width 960px
   margin 0 auto
 </style>
