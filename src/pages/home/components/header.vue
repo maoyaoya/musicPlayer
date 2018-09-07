@@ -70,11 +70,11 @@ dd
       padding 0 1px
   .preson-img
     float left
-    width 30px
-    height 30px
+    width 25px
+    height 25px
     border-radius 50%
-    margin-left 100px
-    margin-top 10px
+    margin-left 200px
+    margin-top 13px
   .text
     font-size 14px
     color rgba(255, 255, 255, 0.8)

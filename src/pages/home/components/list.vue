@@ -23,9 +23,10 @@ export default {
 
 <style lang="stylus" scoped>
 .list
+  display fixed
   background-color rgb(245, 245, 247)
   width 20%
-  height 100%
+  height 500px
   border-right 1px solid #ccc
   float left
   li
